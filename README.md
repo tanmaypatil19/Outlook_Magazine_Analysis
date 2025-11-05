@@ -11,9 +11,13 @@ This project presents a comprehensive analysis of Outlook Magazine’s dataset u
 
 ##Objectives
 •	To design an interactive Power BI dashboard providing a 360° view of Outlook Magazine’s performance metrics.
+
 •	To analyse readership trends across categories, authors, and publication timelines.
+
 •	To identify growth opportunities and optimize editorial strategies based on data insights.
+
 •	To enable management with self-service analytics for better decision-making.
+
 
 
 
