@@ -26,7 +26,7 @@ Dataset
 The data for this project is sourced from Officials of Outlook Publications.
 
 
-Dataset Link: [Magazine Dataset] (https://github.com/tanmaypatil19/Outlook_Magazine_Analysis/blob/main/Outlook_Data.xlsx)
+Dataset Link: (https://github.com/tanmaypatil19/Outlook_Magazine_Analysis/blob/main/Outlook_Data.xlsx)
 
 
 
