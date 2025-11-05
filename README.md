@@ -1,4 +1,5 @@
 # Outlook_Magazine_Analysis
+![Outlook_Logo]()
 
 ##Customer Segmentation for Magazines of Outlook Publications Using Power BI
 
